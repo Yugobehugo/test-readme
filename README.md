@@ -8,7 +8,7 @@
 
 ### :fleur_de_lis: Pré requis
 
-### :loading: Installation
+### :gear: Installation
 
 ### :arrow_forward: Lancer le projet
 
