@@ -12,21 +12,22 @@
 
 ### :gear: Installation
 
+Pour cloner le repo du projet. 
 ```bash
 git clone git@github.com:MargauxMalsch/tchat_node.git 
 ``` 
-pour cloner le repo du projet. 
+
+Afin d'installer toutes les dépendances nécessaires au bon fonctionnement du projet. 
 ```bash
 npm install
 ```  
-afin d'installer toutes les dépendances nécessaires au bon fonctionnement du projet. 
 
 ### :arrow_forward: Lancer le projet
 
+Pour lancer le serveur du projet.
 ```bash
 npm start 
 ``` 
-permet de lancer le serveur du projet.
 
 ## :scroll: Description du projet
 
