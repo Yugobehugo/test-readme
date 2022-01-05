@@ -33,11 +33,11 @@ npm start
 
 ## :family_man_woman_girl_boy: Les auteurs
 
-:deaf_woman: Mathilde Asselin
-:deaf_woman: Margaux Malsch
-:deaf_man: Nicolas Moppin
-:deaf_man: Axel Zidane
-:deaf_man: Florent Quintin
-:deaf_man: Hugo Boudalier
+- :deaf_woman: Mathilde Asselin
+- :deaf_woman: Margaux Malsch
+- :deaf_man: Nicolas Moppin
+- :deaf_man: Axel Zidane
+- :deaf_man: Florent Quintin
+- :deaf_man: Hugo Boudalier
 
 
