@@ -12,7 +12,7 @@
 
 ### Lancer le projet
 
-## Description du projet
+## :scroll: Description du projet
 
-## Les auteurs
+## :family_man_woman_girl_boy: Les auteurs
 
