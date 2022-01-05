@@ -6,11 +6,11 @@
 
 ## :computer: Mise en place du projet
 
-### Pré requis
+### :fleur_de_lis: Pré requis
 
-### Installation
+### :loading: Installation
 
-### Lancer le projet
+### :arrow_forward: Lancer le projet
 
 ## :scroll: Description du projet
 
