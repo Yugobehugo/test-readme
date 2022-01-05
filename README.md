@@ -14,16 +14,19 @@
 
 ```bash
 git clone git@github.com:MargauxMalsch/tchat_node.git 
-``` pour cloner le repo du projet. 
+``` 
+pour cloner le repo du projet. 
 ```bash
 npm install
-```  afin d'installer toutes les dépendances nécessaires au bon fonctionnement du projet. 
+```  
+afin d'installer toutes les dépendances nécessaires au bon fonctionnement du projet. 
 
 ### :arrow_forward: Lancer le projet
 
 ```bash
 npm start 
-``` permet de lancer le serveur du projet.
+``` 
+permet de lancer le serveur du projet.
 
 ## :scroll: Description du projet
 
