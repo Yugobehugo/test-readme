@@ -17,7 +17,7 @@ Pour cloner le repo du projet.
 git clone git@github.com:MargauxMalsch/tchat_node.git 
 ``` 
 
-Afin d'installer toutes les dépendances nécessaires au bon fonctionnement du projet. 
+Pour installer toutes les dépendances nécessaires au bon fonctionnement du projet. 
 ```bash
 npm install
 ```  
@@ -32,4 +32,12 @@ npm start
 ## :scroll: Description du projet
 
 ## :family_man_woman_girl_boy: Les auteurs
+
+:deaf_woman: Mathilde Asselin
+:deaf_woman: Margaux Malsch
+:deaf_man: Nicolas Moppin
+:deaf_man: Axel Zidane
+:deaf_man: Florent Quintin
+:deaf_man: Hugo Boudalier
+
 
